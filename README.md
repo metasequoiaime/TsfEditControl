@@ -1,3 +1,11 @@
+> **This repository has moved and is archived.**
+>
+> Its contents are now [`experiments/tsf-edit-control/`](https://github.com/metasequoiaime/MSIME-Windows/tree/main/experiments/tsf-edit-control) in
+> [metasequoiaime/MSIME-Windows](https://github.com/metasequoiaime/MSIME-Windows), which holds the TSF edit control experiment and its minimal host demo.
+> Full history was preserved through the move, so `git log` and `git blame` follow files into their new paths.
+>
+> Open issues and pull requests belong in MSIME-Windows. Nothing here will be updated.
+
 # TsfEditControl
 
 一个基于 Win32 TSF 的编辑控件实验工程，使用 Direct2D / DirectWrite 负责绘制。项目里把文本输入、组合串显示、候选框定位和基础编辑逻辑放进了控件本身，demo 只是一个最小宿主。
